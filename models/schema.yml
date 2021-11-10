@@ -1,0 +1,9 @@
+version: 2
+
+models:
+  - name: cr_challenge_challenges
+    description:
+
+  - name: cr_challenge_challenges_cuy
+    description:
+
